@@ -8,6 +8,8 @@ This project presents a comprehensive analysis of King County's housing market, 
 
 ## Project Overview
 
+<img width="1444" alt="Screenshot 2024-12-31 at 3 24 16 PM" src="https://github.com/user-attachments/assets/442abd3e-c7f2-473f-b141-61e6e76f6f8a" />
+
 ### Data Collection
 
 The analysis utilizes the King County House Sales dataset, which includes detailed information on property sales, such as sale prices, dates, property characteristics, and geographical data. This dataset serves as a robust foundation for analyzing market trends and patterns.
@@ -33,5 +35,10 @@ The dashboard was created using Tableau's visualization capabilities, focusing o
 
 This Tableau dashboard provides an in-depth look into King County's housing market, offering valuable insights for stakeholders. By leveraging interactive visualizations, users can explore and understand the factors influencing property sales, aiding in informed decision-making.
 
-[Explore the dashboard here](https://public.tableau.com/app/profile/nancy.bhargava2659/viz/TableauProject_17356114144810/KingCountyHouseSales?publish=yes)
+[Explore the working of this dashboard here](https://public.tableau.com/app/profile/nancy.bhargava2659/viz/TableauProject_17356114144810/KingCountyHouseSales?publish=yes)
+
+
+
+
+
 
