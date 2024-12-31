@@ -2,6 +2,9 @@
 
 Explore the dynamic housing market of King County, Washington, with our interactive Tableau dashboard. Conduct in-depth analyses of house sales, trends, and key metrics to gain valuable insights into the real estate landscape.
 
+[Explore the working of this dashboard here](https://public.tableau.com/app/profile/nancy.bhargava2659/viz/TableauProject_17356114144810/KingCountyHouseSales?publish=yes)
+
+
 ## Introduction
 
 This project presents a comprehensive analysis of King County's housing market, focusing on trends, pricing dynamics, and other critical factors influencing property sales. The interactive dashboard allows users to explore various aspects of the market, providing a valuable resource for potential home buyers, real estate professionals, and analysts.
@@ -35,7 +38,6 @@ The dashboard was created using Tableau's visualization capabilities, focusing o
 
 This Tableau dashboard provides an in-depth look into King County's housing market, offering valuable insights for stakeholders. By leveraging interactive visualizations, users can explore and understand the factors influencing property sales, aiding in informed decision-making.
 
-[Explore the working of this dashboard here](https://public.tableau.com/app/profile/nancy.bhargava2659/viz/TableauProject_17356114144810/KingCountyHouseSales?publish=yes)
 
 
 
